@@ -76,7 +76,7 @@ int main() {
 			printf("Please input %d numbers:\n",n);
         for (i = 0;i < n;i++)
                 scanf("%d", &a[i]);
-        update(a, n, m);
+        printf(a, n, m);
 		printf("Output:\nThe new sort numbers are:\n");
         for (i = 0;i < n;i++)
                 printf("%d ", a[i]);
@@ -93,13 +93,24 @@ void update(int x[], int n, int m) {
                 x[i + m] = x[i];
         for (i = 0;i < m;i++)
                 x[i] = tmp[i + (n - m)];
+
+void update(int x[], int n, int m) {
+        int tmp[50];
+        int i;
+        for (i = 0;i < n;i++)
+                tmp[i] = x[i];
+        for (i = n - m - 1;i >= 0;i--)
+         ;
 }
 
+awdawdwadawkdwndkadjwadjaldajkadwadawd
+jalkdjawkbdjaw
+wwwwwwwwwwwflkddawdaw
 
 
 
 
-
+hello world help printf , cool, mini hu ying !
 
 
 
