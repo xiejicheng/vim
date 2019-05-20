@@ -102,19 +102,21 @@ void update(int x[], int n, int m) {
         for (i = n - m - 1;i >= 0;i--)
          ;
 }
+p
+llllllljawkbdjaw
 
-awdawdwadawkdwndkadjwadjaldajkadwadawd
-jalkdjawkbdjaw
-wwwwwwwwwwwflkddawdaw
-
-
-
-
-hello world help printf , cool, mini hu ying !
+o
+wwwwwwwflkddawdaw
 
 
 
+ hello world help printf , cool, mini hu ying !
 
+linux
+linux
+linux
+linux
+linux
 
 
 
