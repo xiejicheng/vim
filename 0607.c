@@ -106,10 +106,10 @@ p
 llllllljawkbdjaw
 
 o
-wwwwwwwflkddawdaw
+wwwwwwwkldddawdaw
 
-
-
+hello hello hello 
+printf("")
  hello world help printf , cool, mini hu ying !
 
 linux
