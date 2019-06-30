@@ -102,11 +102,6 @@ void update(int x[], int n, int m) {
         for (i = n - m - 1;i >= 0;i--)
          ;
 }
-p
-llllllljawkbdjaw
-
-o
-wwwwwwwkldddawdaw
 
 hello hello hello 
 printf("")
