@@ -142,6 +142,9 @@ set t_md=
 " 开启 256 色
 set t_Co=256
 
+" 消除黑条
+" set t_ut=
+
 " filetype
 set fileformat=unix
 
