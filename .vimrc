@@ -109,12 +109,6 @@ filetype plugin indent on
 " 去除 vi 与 vim 一致性
 set nofoldenable
 
-" 禁止折叠
-set nofoldenable
-
-" 开启语法高亮
-syntax on
-
 " 自动缩进
 set autoindent
 
